@@ -21,14 +21,14 @@ Note: Replace YOUR_* placeholders below.
 ### About me
 I work at the intersection of communication, data, and security. I write in Azerbaijani, Turkish, and English, and I care about clear storytelling, privacy-by-default practices, and measurable impact.
 
-- **Now:** studying Communication Studies & Information Management; working in financial compliance.  
-- **Interests:** AI governance, digital privacy, data storytelling, NPL, HCI.  
+- **Now:** studying Communication Studies & Information Management Technologies; working in financial compliance.  
+- **Interests:** AI governance, UX design, digital privacy, data storytelling, HCI, NPL.  
 - **Open to:** collaborating on research-backed content, lightweight ML/LLM projects, and data visuals.
 
 ---
 
 ### Skills snapshot
-- **Writing & research:** reporting, copywriting, desk research, fact-checking, citations, regulatory reporting, political analysis
+- **Writing & research:** reporting, copywriting, content design, desk research
 - **Professional:** project management, financial data analysis, transaction pattern analysis, AML/CTF detection
 - **Content & design:** Figma, lightweight video editing
 - **Tooling:** SQL, Python, Microsoft Office (especially Excel), Google Workspace, Trello, Jira, SAP FICO, Adobe Creative Cloud

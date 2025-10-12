@@ -61,6 +61,6 @@ I work at the intersection of communication, data, and security. I write in Azer
 
 ### Contact
 - Email: `CONTACT@BILALASHRAFOV.COM`   
-- Website: `WWW.BILALASHRAFOV.COM`
+- Website: `WWW.BLLSHRFV.COM`
 
 <sub>Last updated: `2025-08-12`</sub>

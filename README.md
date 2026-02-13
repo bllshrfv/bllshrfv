@@ -45,7 +45,7 @@ I work at the intersection of communication, data, and security. I write in Azer
 ---
 
 ### Certifications
-- **AWS Certified AI Practitioner** — `2025`
+- **AWS Certified AI Practitioner** — `2026`
 - **Project Management (Professional Certificate)** - `2024`
 - **Analyze Financial Data with Python** - `2024`
 
@@ -63,4 +63,4 @@ I work at the intersection of communication, data, and security. I write in Azer
 - Email: `CONTACT@BILALASHRAFOV.COM`   
 - Website: `WWW.BLLSHRFV.COM`
 
-<sub>Last updated: `2025-10-18`</sub>
+<sub>Last updated: `2025-02-13`</sub>

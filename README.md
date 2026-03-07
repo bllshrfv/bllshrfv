@@ -38,7 +38,7 @@ I work at the intersection of communication, data, and security. I write in Azer
 ---
 
 ### Writing (selected)
-- Baku Research Institute • Abzas Media • Mikroskop Media • Medium  
+- Mikroskop Media • Abzas Media • Medium  
 
 1. [Why do people learn their partner’s language? Now I have my answer.](https://medium.com/@bllshrfv/why-do-people-learn-their-partners-language-now-i-have-my-answer-bab9bf7ab5d4)
 
@@ -63,4 +63,4 @@ I work at the intersection of communication, data, and security. I write in Azer
 - Email: `CONTACT@BILALASHRAFOV.COM`   
 - Website: `WWW.BLLSHRFV.COM`
 
-<sub>Last updated: `2025-02-13`</sub>
+<sub>Last updated: `2025-03-08`</sub>
